@@ -1,0 +1,6 @@
+streamlit>=1.32
+deep-translator>=1.11.4
+langdetect>=1.0.9
+gTTS>=2.5.1
+SpeechRecognition>=3.10.0
+openai>=1.30.0
